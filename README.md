@@ -1,10 +1,16 @@
-#   **Greetings and welcome!** ✌️
+#   **Greetings👋, I'm Jorge A. Macias Z**
 
- Hello my name is **Jorge A. Macias Z**, I'm a frontend developer that 
+Student of  Computer Engineering at University of Guadalajara (CUCOSTA)
 
-and also I'm currently stuying Computer Engineering at **University of Guadalajara (CUCOSTA)**
+## **About Me**
+
+I'm a self-taught programmer, I love to improve my knowledge and talk about new features with my friends/partners.
 
 ## **My skillset**
+
+<section align="center">
+    <img src="resources/JAMZ-skillset.png" width="" height="">
+</section>
 
 ## **I'm currently interested on learn**
 
@@ -18,4 +24,4 @@ and also I'm currently stuying Computer Engineering at **University of Guadalaja
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgemacias-12&theme=radical&hide_border=true&show_icons=true)](https://github.com/Jorgemacias-12)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgemacias-12&theme=radical&hide_border=true)](https://github.com/Jorgemacias-12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgemacias-12&theme=radical&hide_border=true&layout=compact)](https://github.com/Jorgemacias-12)
