@@ -66,28 +66,6 @@ Aquí algunas de las tecnologías y lenguajes que manejo, junto con proyectos en
 
 ### Lenguajes de Programación:
 
-<style>
-
-  .icon {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-  
-  .icons-container {
-    display: flex;
-    gap: 0.5rem;
-    flex-direction: column;
-  }
-
-  .container {
-    display: flex;
-    gap: 1rem;
-    align-items: center;
-  }
-
-</style>
-
 <section class="icons-container">
   <section class="container">
     <a class="icon" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /> JavaScript</a>
