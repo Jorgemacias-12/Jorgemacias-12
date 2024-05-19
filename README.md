@@ -91,3 +91,7 @@ Puerto Vallarta, Jalisco, México
    dentro del mundo y permitir que el usuario exporte los
    mapas en varios formatos de imagen.
    - Tecnologías ![Tecnologías](https://skillicons.dev/icons?i=cs)
+
+## Enlaces Útiles
+
+![[LinkedIn]](https://skillicons.dev/icons?i=linkedin) LinkedIn
