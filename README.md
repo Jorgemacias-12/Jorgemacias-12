@@ -1,8 +1,8 @@
 # Hola, Soy Jorge Macias ╰(_°▽°_)╯
 
 <p align="justify">
-  Soy un <b>desarrollador de software</b> en desarrollo backend, frontend y aplicacio
-  nes de escritorio a través de proyectos académicos y aprendizaje autodidacta.
+  Soy un <b>desarrollador de software</b> en desarrollo backend, frontend y aplicaciones
+  de escritorio a través de proyectos académicos y aprendizaje autodidacta.
 </p>
 
 ## Habilidades 🌐
