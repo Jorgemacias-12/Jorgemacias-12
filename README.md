@@ -95,3 +95,5 @@ Puerto Vallarta, Jalisco, México
 ## Enlaces Útiles
 
 ![[LinkedIn]](https://skillicons.dev/icons?i=linkedin) LinkedIn
+
+![](https://hit.yhype.me/github/profile?user_id=63885983)
