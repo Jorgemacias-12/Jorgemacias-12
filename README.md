@@ -3,22 +3,16 @@
 Driven by curiosity — building and learning through code.  
 I enjoy exploring technologies, writing clean solutions, and creating meaningful software.
 
----
-
 ## About Me
 
 I'm a software developer focused on **C#**, **TypeScript**, **WPF**, and **Astro**.  
 Curiosity has been the reason I explore, learn, and build.  
 Currently, I'm improving both my **code quality** and **English skills**.
 
----
-
 ## Portfolio
 
 You can explore my work and personal projects at:  
 👉 [**jorgemacias.dev**](https://jorgemacias.dev)
-
----
 
 ## Activity & Languages
 
@@ -28,8 +22,6 @@ You can explore my work and personal projects at:
 <a href="https://github.com/jorge-macias">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgemacias-12&layout=compact&theme=transparent" />
 </a>
-
----
 
 ## Contact
 
