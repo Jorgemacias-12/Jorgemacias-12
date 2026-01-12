@@ -27,3 +27,5 @@ You can explore my work and personal projects at:
 
 **Email:** [jorgeantoniomaciaszambrano@gmail.com](mailto:jorgeantoniomaciaszambrano@gmail.com)  
 **LinkedIn:** [jamz3](https://linkedin.com/in/jamz3)
+
+![](https://hit.yhype.me/github/profile?account_id=63885983)
