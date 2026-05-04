@@ -12,14 +12,14 @@ Currently, I'm improving both my **code quality** and **English skills**.
 ## Portfolio
 
 You can explore my work and personal projects at:  
-👉 [**jorgemacias.dev**](https://jorgemacias.dev)
+👉 [**jorgemacias.dev**](https://wwww.jorgemacias.dev/)
 
 ## Activity & Languages
 
-<a href="https://github.com/jorge-macias">
+<a href="https://github.com/Jorgemacias-12">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jorgemacias-12&show_icons=true&theme=transparent" />
 </a>
-<a href="https://github.com/jorge-macias">
+<a href="https://github.com/Jorgemacias-12">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgemacias-12&layout=compact&theme=transparent" />
 </a>
 
